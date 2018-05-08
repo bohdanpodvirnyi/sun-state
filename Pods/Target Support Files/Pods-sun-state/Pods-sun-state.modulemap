@@ -1,0 +1,6 @@
+framework module Pods_sun_state {
+  umbrella header "Pods-sun-state-umbrella.h"
+
+  export *
+  module * { export * }
+}
